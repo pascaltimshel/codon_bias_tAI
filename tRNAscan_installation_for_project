@@ -1,0 +1,14 @@
+
+
+/usr/cbs/bio/src/tRNAscan-SE-1.23
+
+
+./trnascan-1.4 
+./trnascan-1.4: Exec format error. Binary file not executable.
+
+
+
+my own installation is in: /usr/local/bin/
+	--> there is a folder called tRNAscan with utils and more
+	--> executables (c and perl)
+# Version 1.3.1
