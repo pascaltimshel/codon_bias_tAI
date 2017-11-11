@@ -1,4 +1,4 @@
-Python project ReadMe by Pascal Timshel
+Compute Codon Bias tAI values
 ==============
 
-Here ar esome text entered from the web
+Mini python package for computing codon bias tAI values for DTU course "27624 - Python for Bioinformatics". 
